@@ -38,3 +38,5 @@ Rewards on the protocol are distributed daily. At the end of the day, the income
 The winning user is sent a notification that they have won using the Push Protocol. UMA OOV3 is also used to assert to the correctness of some off-chain process and store the output on-chain.
 
 The amount won by the winning user is sent to the user's ERC6551 wallet. The money won can be withdrawn from the ERC6551 Account either as DAI or as BOB token via zkBOB direct deposits.
+
+Link to our frontend: https://github.com/emremreistaken/neon_evm_coolcats
