@@ -40,3 +40,4 @@ The winning user is sent a notification that they have won using the Push Protoc
 The amount won by the winning user is sent to the user's ERC6551 wallet. The money won can be withdrawn from the ERC6551 Account either as DAI or as BOB token via zkBOB direct deposits.
 
 Link to our frontend: https://github.com/emremreistaken/NFTogetherApp
+Our deployment on NeonEVM devnet: https://github.com/emremreistaken/neon_evm_coolcats
